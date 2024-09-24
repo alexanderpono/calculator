@@ -1,6 +1,6 @@
-// import { GameController } from './GameController';
+import { CalculatorController } from './CalculatorController';
 
 console.log('main!');
 
-// const c = new GameController();
-// c.run();
+const c = new CalculatorController();
+c.run();
